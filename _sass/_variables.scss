@@ -6,27 +6,30 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 14;
+$doc-font-size              : 12;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
-$indent-var                 : 1.3em;
+$indent-var                 : 1em;
 
 /* system typefaces */
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+// 将原来的 serif 字体替换为 LaTeX 风格的 Latin Modern Roman
+$serif                      : "Latin Modern Roman", "Computer Modern", serif;
+// sans-serif 使用 Latin Modern Sans，其他作为后备
+$sans-serif                 : "Latin Modern Sans", -apple-system, "Segoe UI", sans-serif;
+// monospace 改为 Latin Modern Mono
+$monospace                  : "Latin Modern Mono", "Computer Modern Typewriter", Monaco, Consolas, monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
-$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+$helvetica                  : "Latin Modern Sans", Helvetica, Arial, sans-serif;
 
 /* serif typefaces */
-$georgia                    : Georgia, serif;
-$times                      : Times, serif;
-$bodoni                     : "Bodoni MT", serif;
-$calisto                    : "Calisto MT", serif;
-$garamond                   : Garamond, serif;
+$georgia                    : "Latin Modern Roman", serif;
+$times                      : "Latin Modern Roman", serif;
+$bodoni                     : "Latin Modern Roman", serif;
+$calisto                    : "Latin Modern Roman", serif;
+$garamond                   : "Latin Modern Roman", serif;
 
 $global-font-family         : $sans-serif;
 $header-font-family         : $sans-serif;
