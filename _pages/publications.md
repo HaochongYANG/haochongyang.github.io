@@ -7,7 +7,7 @@ redirect_from: /research/publications.html
 ---
 
 <div class="publication-entry">
-    <h3><a href="">A Novel Approach for Efficient Multi-class Anxiety Level Prediction Approximation for Long Assessments.</a></h3>
+    <h3><a href="">A Novel Approach for Efficient Multi-class Anxiety Level Prediction Approximation for Long Assessments</a></h3>
     <p>Yang, H.; Sun, Y. H.; Lee, K. A Novel Approach for Efficient Multi-class Anxiety Level Prediction Approximation for Long Assessments. Submitted to Journal of Anxiety Disorders</p>
 </div>
 
@@ -17,7 +17,7 @@ redirect_from: /research/publications.html
 </div>
 
 <div class="publication-entry">
-    <h3><a href="https://doi.org/10.26685/urncst.712">Influence of Known Genetic Risk Factors for Atherosclerosis on People with Different Racial Backgrounds.</a></h3>
+    <h3><a href="https://doi.org/10.26685/urncst.712">Influence of Known Genetic Risk Factors for Atherosclerosis on People with Different Racial Backgrounds</a></h3>
     <p>Sun, Y.; Yang, H. Influence of Known Genetic Risk Factors for Atherosclerosis on People with Different Racial Backgrounds. URNCST Journal (2024): Volume 8, Issue 11. https://doi.org/10.26685/urncst.712</p>
 </div>
 
