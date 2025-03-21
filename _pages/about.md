@@ -13,3 +13,8 @@ I will be starting my PhD in Operations Management and Statistics at Rotman Scho
 
 My interest lies in applying traditional statistical methods and advanced AI methods to modeling and solving real-world problems.
 
+<!-- GitHub 统计卡（基本统计） -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=HaochongYANG&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+<!-- 可选：语言统计卡 -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaochongYANG&layout=compact&theme=radical" alt="Top Langs" />
