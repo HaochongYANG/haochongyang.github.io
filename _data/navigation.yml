@@ -21,8 +21,8 @@ main:
     url: /work/
   
 
-  - title: "Curriculum vitae"
-    url: /files/CV.pdf
+  - title: "CV"
+    url: /files/cv_current.pdf
   
   # - title: "Transcript"
   #   url: /transcript/
