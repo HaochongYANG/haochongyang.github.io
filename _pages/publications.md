@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Publications"
+excerpt: "A list of publications by Rogers Yang."
 permalink: /publications/
 author_profile: true
 redirect_from: /research/publications.html
