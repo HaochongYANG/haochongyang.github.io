@@ -7,15 +7,6 @@ author_profile: true
 redirect_from: /miscellaneous.html
 ---
 
-## Awards
-- **University of Toronto Excellence Award (UTEA, $7500)** — University of Toronto, 2025
-- **Louis Savlov Scholarships in Sciences and Humanities ($500)** — University College, 2025
-- **Summer Undergraduate Data Science Scholarship (SUDS, $7500)** — Data Science Institute, 2024
-- **C.L. Burton Scholarship for Mathematics and Physical Sciences ($500)** — University College, 2023
-- **Louis Savlov Scholarships in Sciences and Humanities ($500)** — University College, 2022
-- **University of Toronto Scholar Award ($1500)** — University of Toronto, 2022
-- **Dean’s List Scholar Awards** — Faculty of Arts & Science,  2022 - 2024
-
 ## Technical Skills
 - **Coding:** Python, Java, JavaScript, C++, Shell, Assembly
 - **Data:** R, SQL, Tableau, PowerBI, Kafka, Docker

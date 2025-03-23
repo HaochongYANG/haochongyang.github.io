@@ -40,6 +40,15 @@ My interest lies in applying traditional statistical methods and advanced AI met
 - **Software Developer Internship @ BL Innovare**  
   *May 2022 – Aug 2022, Markham, ON, Canada*
 
+# Awards
+- **University of Toronto Excellence Award (UTEA, $7500)** — University of Toronto, 2025
+- **Louis Savlov Scholarships in Sciences and Humanities ($500)** — University College, 2025
+- **Summer Undergraduate Data Science Scholarship (SUDS, $7500)** — Data Science Institute, 2024
+- **C.L. Burton Scholarship for Mathematics and Physical Sciences ($500)** — University College, 2023
+- **Louis Savlov Scholarships in Sciences and Humanities ($500)** — University College, 2022
+- **University of Toronto Scholar Award ($1500)** — University of Toronto, 2022
+- **Dean’s List Scholar Awards** — Faculty of Arts & Science,  2022 - 2024
+
 
 <img src="https://ghchart.rshah.org/HaochongYANG" alt="GitHub Contribution Graph" />
 
