@@ -3,7 +3,7 @@ layout: archive
 title: "Publications"
 excerpt: "A list of publications by Rogers Yang."
 permalink: /publications/
-author_profile: true
+author_profile: false
 redirect_from: /research/publications.html
 ---
 
