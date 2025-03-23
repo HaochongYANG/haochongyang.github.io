@@ -3,7 +3,7 @@ layout: archive
 title: "Research Projects"
 excerpt: "A list of research projects by Rogers Yang."
 permalink: /research/
-author_profile: false
+author_profile: true
 redirect_from: /research.html
 ---
 

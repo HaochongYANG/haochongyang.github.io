@@ -3,7 +3,7 @@ layout: archive
 title: "Miscellaneous"
 excerpt: "Awards, skills, and hobbies description for Rogers Yang."
 permalink: /miscellaneous/
-author_profile: false
+author_profile: true
 redirect_from: /miscellaneous.html
 ---
 
