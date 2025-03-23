@@ -22,6 +22,9 @@ redirect_from: /miscellaneous.html
 - **Frameworks:** TensorFlow, PyTorch, Langchain, Django
 - **Packages:** Pandas, NumPy, Matplotlib, Scikit-Learn
 
+## Fun Facts
+My name is Rogers, which is the English name given by my parents following the famous humanistic psychologist Carl Rogers. I go by it because it's easier to pronounce than my Chinese name Hàochōng (昊翀). Interesting fact is that the character Hao (昊) means the vast sky, and Chong (翀) means bird soaring upwards.
+
 ## Sports
 - Ultimate Frisbee
 - Competitive Swimming

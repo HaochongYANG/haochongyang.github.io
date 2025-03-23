@@ -7,9 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Rogers, which is the English name given by my parents following the famous humanistic psychologist Carl Rogers. I go by it because it's easier to pronounce than my Chinese name Hàochōng (昊翀). Interesting fact is that the character Hao (昊) means the vast sky, and Chong (翀) means bird soaring upwards.
+I was born and raised in Beijing and have lived in Toronto since starting university. I'm currently pursuing an Honours Bachelor of Science in Statistics and Computer Science at the University of Toronto and will begin my PhD in Operations Management and Statistics at the Rotman School of Management in September 2025. Deeply passionate about statistics and computer science, I focus on areas such as machine learning, high-dimensional statistics, and inference. Through multidisciplinary research projects and internships, I've developed curiosity for research and problem-solving, and I look forward to further expanding my knowledge and expertise.
 
-I will be starting my PhD in Operations Management and Statistics at Rotman School of Management, University of Toronto in September 2025. I'm currently pursuing an Honours Bachelor of Science in Statistics and Computer Science at the University of Toronto. 
 
 # Research Interests
 
