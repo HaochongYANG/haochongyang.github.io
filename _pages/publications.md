@@ -8,8 +8,8 @@ redirect_from: /research/publications.html
 ---
 
 <div class="publication-entry">
-    <h3><a href="">A Novel Approach for Efficient Multi-class Anxiety Level Prediction Approximation for Long Assessments</a></h3>
-    <p>Yang, H.; Sun, Y. H.; Lee, K. A Novel Approach for Efficient Multi-class Anxiety Level Prediction Approximation for Long Assessments. Submitted to Journal of Anxiety Disorders</p>
+    <h3><a href="https://doi.org/10.1016/j.janxdis.2025.103018">Concise multi-class anxiety disorder risk assessment: A novel advanced machine learning approach</a></h3>
+    <p>Yang, H.; Sun, Y. H.; Lee, K. Concise multi-class anxiety disorder risk assessment: A novel advanced machine learning approach. Journal of Anxiety Disorders 2025, 116. https://doi.org/10.1016/j.janxdis.2025.103018</p>
 </div>
 
 <div class="publication-entry">
