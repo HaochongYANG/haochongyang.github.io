@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 <meta name="robots" content="index,follow">
-
-I was born and raised in Beijing and have lived in Toronto since starting university. I'm currently pursuing an Honours Bachelor of Science in Statistics and Computer Science at the University of Toronto and will begin my PhD in Operations Management and Statistics at the Rotman School of Management in September 2025. Deeply passionate about statistics and computer science, I focus on areas such as machine learning, high-dimensional statistics, and inference. Through multidisciplinary research projects and internships, I've developed curiosity for research and problem-solving, and I look forward to further expanding my knowledge and expertise.
+I'm a PhD student in Operations Management & Statistics at Rotman School of Management, University of Toronto, where I also completed my undergraduate degree in Statistics and Computer Science.
 
 
 # Research Interests
@@ -17,8 +16,6 @@ I was born and raised in Beijing and have lived in Toronto since starting univer
 My interest lies in applying traditional statistical methods and advanced AI methods to modeling and solving real-world problems. Broadly, I am interested in the following areas:
 - Machine Learning
 - Causal Inference
-- Inventory Modeling
-- Retail Optimization
 
 # Research Experience
 
