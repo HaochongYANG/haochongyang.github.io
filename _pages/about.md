@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <meta name="robots" content="index,follow">
-I'm a PhD student in Operations Management & Statistics at Rotman School of Management, University of Toronto, where I also completed my undergraduate degree in Statistics and Computer Science.
+I'm a PhD student in Operations Management & Statistics at Rotman School of Management, University of Toronto, where I also completed my Honours Bachelor of Science degree in Statistics and Computer Science.
 
 
 # Research Interests
@@ -19,7 +19,7 @@ My interest lies in applying traditional statistical methods and advanced AI met
 
 # Research Experience
 
-- **Thesis Research @ Department of Statistical Sciences, University of Toronto**  
+- ** Undergraduate Thesis Research @ Department of Statistical Sciences, University of Toronto**  
   *Jun 2024 – Present, Toronto, ON, Canada*
 
 - **Research Assistant @ Department of Mathematics and Statistics, University of West Florida**  
@@ -31,7 +31,7 @@ My interest lies in applying traditional statistical methods and advanced AI met
 - **Research Assistant @ Department of Psychology, University of Toronto**  
   *Sep 2023 – Jun 2024, Toronto, ON, Canada*
 
-# Work Experience
+# Industry Experience
 
 - **Data Analyst Co-op @ Toromont CAT**  
   *May 2023 – Aug 2023, Concord, ON, Canada*
