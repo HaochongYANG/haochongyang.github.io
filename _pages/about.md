@@ -19,7 +19,7 @@ My interest lies in applying traditional statistical methods and advanced AI met
 
 # Research Experience
 
-- ** Undergraduate Thesis Research @ Department of Statistical Sciences, University of Toronto**  
+- **Undergraduate Thesis Research @ Department of Statistical Sciences, University of Toronto**  
   *Jun 2024 – Present, Toronto, ON, Canada*
 
 - **Research Assistant @ Department of Mathematics and Statistics, University of West Florida**  
