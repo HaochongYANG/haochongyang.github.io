@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <meta name="robots" content="index,follow">
-I'm a PhD student in Operations Management & Statistics at Rotman School of Management, University of Toronto, where I also completed my Honours Bachelor of Science degree in Statistics and Computer Science.
+I'm a first year PhD student in Operations Management & Statistics at Rotman School of Management, University of Toronto, where I also completed my Honours Bachelor of Science degree in Statistics and Computer Science.
 
 
 # Research Interests

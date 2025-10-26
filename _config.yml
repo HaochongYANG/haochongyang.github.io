@@ -115,6 +115,8 @@ include:
   - .htaccess
   - _pages
   - files
+  - assets/css/haochong_minimal_luxe.css
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
