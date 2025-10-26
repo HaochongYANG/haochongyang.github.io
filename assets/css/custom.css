@@ -1,0 +1,13 @@
+/* 改变所有一级标题 (# 开头的) 的字体 */
+h1 {
+  font-family: 'Georgia', serif;   /* 改成你想要的字体 */
+  font-weight: 700;                /* 加粗 */
+  color: #2a2a2a;                  /* 修改颜色 */
+}
+
+/* 改变二级标题 (## 开头的) */
+h2 {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-weight: 600;
+  color: #444;
+}
