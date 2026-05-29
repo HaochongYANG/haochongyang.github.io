@@ -7,6 +7,30 @@ author_profile: true
 redirect_from: /research.html
 ---
 
+<h2>Causal Estimation and Optimization for Data-Driven Retail Staffing Management</h2>
+<p><em>University of Toronto, Toronto, Canada</em></p>
+<div style="display: flex;">
+  <div aria-label="Project image placeholder" style="width: 225px; min-width: 225px; height: 225px; margin-right: 20px; border: 1px solid #d9d9d9; background: #f7f7f7;"></div>
+  <div>
+    <p>This project develops a Causal Estimation and Optimization framework for retail staffing management in collaboration with a major Canadian retailer. The study estimates the causal impact of staffing levels on sales while accounting for store-level and time-specific heterogeneity, customer traffic, inventory, promotions, operating hours, and labor composition. By combining Double Machine Learning, instrumental-variable selection, time-series forecasting, and distributionally robust roster optimization, the framework identifies overstaffed and understaffed store-days and recommends staffing adjustments that improve expected sales and profitability under forecast uncertainty.</p>
+    <p><em>Research focus:</em> causal inference, machine learning, retail operations, and robust optimization</p>
+    <p><em>with</em> Opher Barron, Sheng Liu, Vahid Sarhangian</p>
+  </div>
+</div>
+<hr/>
+
+<h2>Enhancing Donor Accessibility Management for Blood Services with Data</h2>
+<p><em>University of Toronto, Toronto, Canada</em></p>
+<div style="display: flex;">
+  <div aria-label="Project image placeholder" style="width: 225px; min-width: 225px; height: 225px; margin-right: 20px; border: 1px solid #d9d9d9; background: #f7f7f7;"></div>
+  <div>
+    <p>This project studies data-driven donor accessibility management for blood collection services. The work models how permanent and mobile clinics affect appointment access, donor transitions, retention, reactivation, and long-term donor-base growth. Donors move among prospect, resting, active, and lapsed states, with booking, show-up, entry, and attrition behavior shaped by distance to clinics and available capacity. The framework evaluates how clinic location, operating duration, capacity allocation, and promotional effort should be managed to balance reliable short-term collections with the development of new or less stable donor segments.</p>
+    <p><em>Research focus:</em> donor-flow modeling, healthcare operations, mobile clinic deployment, and dynamic capacity planning</p>
+    <p><em>with</em> Philipp Afeche, Dmitry Krass, Sheng Liu</p>
+  </div>
+</div>
+<hr/>
+
 <h2>Heterogeneity of single-cell Hi-C DNA data Analysis</h2>
 <p><em>University of Toronto, Toronto, Canada</em></p>
 <div style="display: flex;">
@@ -75,7 +99,7 @@ redirect_from: /research.html
     <p><em>Supervisor:</em> Professor. Shusen Pu</p>
     <a href="../files/axioms-13-00401-v2.pdf">Paper</a>
   </div>
-<div>
+</div>
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
