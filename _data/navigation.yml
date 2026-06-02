@@ -23,15 +23,9 @@ main:
 
   - title: "CV"
     url: /files/cv_rogersyang.pdf
-  
-  # - title: "Transcript"
-  #   url: /transcript/
-    
-  #- title: "Guide"
-  #  url: /markdown/
 
-  # - title: "Portfolio"
-  #  url: /portfolio/
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "Miscellaneous"
     url: /miscellaneous/

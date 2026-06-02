@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About Me"
+seo_title: "Rogers Yang"
 description: "Rogers Yang (Haochong Yang) is a PhD student in Operations Management & Statistics at the Rotman School of Management, University of Toronto."
 excerpt: "Rogers Yang (Haochong Yang) is a PhD student in Operations Management & Statistics at the Rotman School of Management, University of Toronto."
 author_profile: true
@@ -17,19 +18,13 @@ My interest lies in applying traditional statistical methods and advanced AI met
 - Machine Learning
 - Causal Inference
 
-# Research Experience
+# Invited Talks
 
-- **Undergraduate Thesis Research @ Department of Statistical Sciences, University of Toronto**  
-  *Jun 2024 – Present, Toronto, ON, Canada*
+- **Dynamic Donor-Base Management for Fixed and Mobile Blood Collection Clinics**  
+  *2026 INFORMS Annual Conference, San Francisco, CA, United States — Nov 2026*
 
-- **Research Assistant @ Department of Mathematics and Statistics, University of West Florida**  
-  *Aug 2023 – Jan 2025, Pensacola, FL, USA*
-
-- **Data Science Researcher @ Data Science Institute, University of Toronto**  
-  *May 2024 – Aug 2024, Toronto, ON, Canada*
-
-- **Research Assistant @ Department of Psychology, University of Toronto**  
-  *Sep 2023 – Jun 2024, Toronto, ON, Canada*
+- **Causal Estimation and Optimization for Retail Staffing Management**  
+  *2026 CORS Annual Conference, Kingston, ON, Canada — Jun 2026*
 
 # Industry Experience
 
@@ -39,14 +34,19 @@ My interest lies in applying traditional statistical methods and advanced AI met
 - **Software Developer Internship @ BL Innovare**  
   *May 2022 – Aug 2022, Markham, ON, Canada*
 
-# Awards
-- **University of Toronto Excellence Award (UTEA, $7500)** — University of Toronto, 2025
-- **Louis Savlov Scholarships in Sciences and Humanities ($500)** — University College, 2025
-- **Summer Undergraduate Data Science Scholarship (SUDS, $7500)** — Data Science Institute, 2024
-- **C.L. Burton Scholarship for Mathematics and Physical Sciences ($500)** — University College, 2023
-- **Louis Savlov Scholarships in Sciences and Humanities ($500)** — University College, 2022
-- **University of Toronto Scholar Award ($1500)** — University of Toronto, 2022
-- **Dean’s List Scholar Awards** — Faculty of Arts & Science,  2022 - 2024
+# Awards and Scholarships
+
+*[A] = Academic, [R] = Research*
+
+- **[A] Doctoral Data Science Certificate** — Data Science Institute, U of T, 2026
+- **[R] Doctoral Fellowship ($40,000)** — Rotman School of Management, U of T, 2025, 2026
+- **[A] University College Alumni Scholarship ($500)** — University College, U of T, 2025
+- **[R] University of Toronto Excellence Award ($7,500)** — Ontario Institute for Studies in Education, U of T, 2025
+- **[R] Summer Undergraduate Data Science Scholarship ($7,500)** — Data Science Institute, U of T, 2024
+- **[A] C.L. Burton Scholarship for Mathematics ($500)** — University College, U of T, 2023
+- **[A] Louis Savlov Scholarships in Sciences ($500)** — University College, U of T, 2022, 2025
+- **[A] University of Toronto Scholar Award ($1,500)** — Faculty of Arts & Science, U of T, 2022
+- **[A] Dean’s List Scholar Awards** — Faculty of Arts & Science, U of T, 2022–2025
 
 
 <img src="https://ghchart.rshah.org/HaochongYANG" alt="GitHub Contribution Graph" />
