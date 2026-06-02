@@ -1,13 +1,13 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "This is a brief introduction about Rogers Yang."
+description: "Rogers Yang (Haochong Yang) is a PhD student in Operations Management & Statistics at the Rotman School of Management, University of Toronto."
+excerpt: "Rogers Yang (Haochong Yang) is a PhD student in Operations Management & Statistics at the Rotman School of Management, University of Toronto."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<meta name="robots" content="index,follow">
 I'm a first year PhD student in Operations Management & Statistics at Rotman School of Management, University of Toronto, where I also completed my Honours Bachelor of Science degree in Statistics and Computer Science.
 
 

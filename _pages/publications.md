@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-excerpt: "A list of publications by Rogers Yang."
+excerpt: "Publications by Rogers Yang (Haochong Yang) in machine learning, statistics, and causal inference."
 permalink: /publications/
 author_profile: true
 redirect_from: /research/publications.html

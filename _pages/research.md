@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research Projects"
-excerpt: "A list of research projects by Rogers Yang."
+excerpt: "Research projects by Rogers Yang (Haochong Yang), PhD student at the University of Toronto Rotman School of Management."
 permalink: /research/
 author_profile: true
 redirect_from: /research.html
