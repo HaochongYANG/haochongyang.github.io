@@ -41,6 +41,7 @@ redirect_from: /research.html
   <div>
     <p> This research focuses on the heterogeneity of single-cell Hi-C DNA data to explore the quantitative methods for classifying different types of single cells based on DNA Hi-C data and contact matrices. Large amount of data cleaning and transformation is performed on the original dataset, different methods of dimension reduction are applied, including Principle Component Analysis, t-SNE, UMAP, with clustering techniques such as K-Means performed on lower dimension representations.</p>
     <p><em>Supervisor:</em> Professor. Elena Tuzhilina</p>
+    <a href="/files/single-cell-hic.pdf">Report</a>
   </div>
 </div>
 <hr/>
