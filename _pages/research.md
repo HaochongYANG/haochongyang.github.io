@@ -46,6 +46,19 @@ redirect_from: /research.html
 </div>
 <hr/>
 
+<h2>Infinitesimal Jackknife Standard Errors under Model Misspecification</h2>
+<p><em>University of Toronto, Toronto, Canada</em></p>
+<div style="display: flex;">
+  <div aria-label="Project image placeholder" style="width: 225px; min-width: 225px; height: 225px; margin-right: 20px; border: 1px solid #d9d9d9; background: #f7f7f7;"></div>
+  <div>
+    <p>This project studies the infinitesimal jackknife (IJ) as a tool for robust uncertainty quantification when statistical models are misspecified. We examine how influence-function-based IJ standard errors relate to sandwich estimators and the bootstrap, extend the method to clustered data and Bayesian posterior functionals, and evaluate performance through Monte Carlo simulations under clustered dependence and heteroskedastic errors. The simulations show that IJ maintains near-nominal coverage while requiring only a single model fit, making it substantially more efficient than cluster bootstrap in finite samples.</p>
+    <p><em>Research focus:</em> robust inference, influence functions, model misspecification, and computational statistics</p>
+    <p><em>with</em> Nanyu Luo, Feng Ji</p>
+    <a href="/files/IJSE.pdf">Manuscript</a>
+  </div>
+</div>
+<hr/>
+
 <h2>Multi-agent LLM for Mental Health Diagnosis</h2>
 <p><em>University of Toronto, Toronto, Canada</em></p>
 <div style="display: flex;">
