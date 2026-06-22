@@ -38,6 +38,7 @@ My interest lies in applying traditional statistical methods and advanced AI met
 
 *[A] = Academic, [R] = Research*
 
+- **[R] TD MDAL Research Grant ($3,000)** — Rotman School of Management, U of T, 2026
 - **[A] Doctoral Data Science Certificate** — Data Science Institute, U of T, 2026
 - **[R] Doctoral Fellowship ($40,000)** — Rotman School of Management, U of T, 2025, 2026
 - **[A] University College Alumni Scholarship ($500)** — University College, U of T, 2025
