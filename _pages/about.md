@@ -14,9 +14,7 @@ I'm a first year PhD student in Operations Management & Statistics at Rotman Sch
 
 # Research Interests
 
-My interest lies in applying traditional statistical methods and advanced AI methods to modeling and solving real-world problems. Broadly, I am interested in the following areas:
-- Machine Learning
-- Causal Inference
+My interest lies in applying traditional statistical methods and advanced AI methods to modeling and solving real-world problems. 
 
 # Invited Talks
 
