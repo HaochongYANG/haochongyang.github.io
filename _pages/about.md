@@ -9,12 +9,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a first year PhD student in Operations Management & Statistics at Rotman School of Management, University of Toronto, where I also completed my Honours Bachelor of Science degree in Statistics and Computer Science.
+I'm a second year PhD student in Operations Management & Statistics at Rotman School of Management, University of Toronto, where I also completed my Honours Bachelor of Science degree in Computer Science and Statistics.
 
 
 # Research Interests
 
-My interest lies in applying traditional statistical methods and advanced AI methods to modeling and solving real-world problems. 
+My interest lies in applying traditional statistical methods and advanced AI methods to modeling and solving problems. My research studies how capacity-constrained service systems can learn from data and optimally allocate scarce operational resources, using tools from causal inference, stochastic modeling, and optimization.
 
 # Invited Talks
 
